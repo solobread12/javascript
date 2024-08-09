@@ -15,3 +15,4 @@ let ages = [0, 2, 6];
 ages.forEach(age => {
     console.log(`Usia: ${age}, Kebijakan: ${checkTicketPrice(age)}`);
 });
+    

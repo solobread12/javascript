@@ -14,6 +14,8 @@ userAges.forEach(age => {
 });
 
 
+
+
 // Usia: 16
 // Registrasi gagal
 // Usia: 18
