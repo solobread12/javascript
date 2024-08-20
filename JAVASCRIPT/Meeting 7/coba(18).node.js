@@ -27,3 +27,4 @@ myBook.updateAuthor("John Smith");
 
 // Memanggil metode getDetails lagi untuk melihat perubahan
 console.log(myBook.getDetails()); // Output: Title: JavaScript Essentials, Author: John Smith
+console.log('asd');
