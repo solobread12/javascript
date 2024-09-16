@@ -11,7 +11,7 @@ class mobil {
   
       this.setTahun = function (tahun) {
         _tahun = tahun;
-      };
+      };  
   
       this.getMerek = function () {
         return _merek;
