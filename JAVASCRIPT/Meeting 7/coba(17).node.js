@@ -10,3 +10,4 @@ console.log(age);  // Output: 30
 const { name: userName, age: userAge } = person;
 console.log(userName); // Output: John
 console.log(userAge);  // Output: 30
+  

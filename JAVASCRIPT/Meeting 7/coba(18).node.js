@@ -10,8 +10,8 @@ class Book {
         return `Title: ${this.title}, Author: ${this.author}`;
     }
 
-    // Metode untuk mengubah nama penulis
-    updateAuthor(newAuthor) {
+    // Metode untuk mengubah nama penulis   
+    updateAuthor  (newAuthor) {
         this.author = newAuthor;
     }
 }
